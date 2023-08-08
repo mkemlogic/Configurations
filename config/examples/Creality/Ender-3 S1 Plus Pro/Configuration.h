@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "Creality/Ender-3 S1 Plus"
+#define CONFIG_EXAMPLES_DIR "Creality/Ender-3 S1 Plus Pro"
 
 /**
  * Configuration.h
